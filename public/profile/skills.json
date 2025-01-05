@@ -6,8 +6,12 @@
             "items" : [
      
                 {
-                    "icon": "images/skills/java.png",
-                    "title": "Java"
+                    "icon": "images/skills/",
+                    "title": "Csharp"
+                },
+                {
+                    "icon": "images/skills/",
+                    "title": "Cplusplus"
                 },
                 {
                     "icon": "images/skills/php.png",
