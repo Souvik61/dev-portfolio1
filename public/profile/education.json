@@ -1,19 +1,19 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
-            "icon" : {
-                "src": "images/education/lorem-ipsum.png"
-            }
+            "title": "2021 - 2024",
+            "cardTitle": "IT A Level (Diploma Course in Computer Application)",
+            "cardSubtitle":"NIELIT, Jadabpur"
         },
         {
-            "title": "Apr 20XX",
+            "title": "2018 - 2020",
+            "cardTitle": "IT O Level (Diploma Course in Computer Application)",
+            "cardSubtitle":"NIELIT, Jadabpur"
+        },
+        {
+            "title": "2018",
             "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "cardSubtitle":"Dakshin Barasat Sibdas Acharya High School, Dakshin Barasat"
         }
     ]
 }
