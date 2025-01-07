@@ -1,16 +1,15 @@
 {
     "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
-    "skills": [{
-     
+    "skills": [
+        {
             "title": "Languages & Databases",
-            "items" : [
-     
+            "items": [
                 {
-                    "icon": "images/skills/",
+                    "icon": "images/skills/icon-csharp.png",
                     "title": "Csharp"
                 },
                 {
-                    "icon": "images/skills/",
+                    "icon": "images/skills/icon-cpp.png",
                     "title": "Cplusplus"
                 },
                 {
@@ -29,27 +28,32 @@
                     "icon": "images/skills/mysql.png",
                     "title": "MySQL"
                 }
-        ]},
+            ]
+        },
         {
             "title": "Frameworks & Technologies",
-            "items" : [
+            "items": [
                 {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
+                    "icon": "images/skills/icon-unity.png",
+                    "title": "Unity Engine"
                 },
                 {
-                    "icon": "images/skills/react.png",
-                    "title": "React"
+                    "icon": "images/skills/icon-cocos2dx.png",
+                    "title": "Cocos2dx"
                 },
                 {
-                    "icon": "images/skills/nodejs.png",
-                    "title": "Nodejs"
+                    "icon": "images/skills/icon-unreal.png",
+                    "title": "Unreal Engine"
                 }
             ]
         },
         {
-            "title" : "Tools & Platforms",
+            "title": "Tools & Platforms",
             "items": [
+                {
+                    "icon": "images/skills/icon-vs.png",
+                    "title": "Visual Studio"
+                },
                 {
                     "icon": "images/skills/android-studio.png",
                     "title": "Android Studio"
@@ -59,9 +63,23 @@
                     "title": "Git"
                 },
                 {
-                    "icon": "images/skills/docker.png",
-                    "title": "Docker"
+                    "icon": "images/skills/icon-github.png",
+                    "title": "Github Desktop"
                 }
             ]
-    }
-]}
+        },
+        {
+            "title": "Design Tools",
+            "items": [
+                {
+                    "icon": "images/skills/photoshop.png",
+                    "title": "Photoshop"
+                },
+                {
+                    "icon": "images/skills/icon-gimp.png",
+                    "title": "Gimp"
+                }
+            ]
+        }
+    ]
+}
