@@ -23,7 +23,7 @@
         {
             "image": "images/projects/shape-editor-gif.gif",
             "title": "Shape Editor",
-            "bodyText": "- Create, modify and export box2d shapes.",
+            "bodyText": "- Program to create, edit and save shape vertices data. with C++ and Cocos2dx Box2d framework.\n - Used Matrix operations to manipulate vertices of shapes.",
             "links": [
                 {
                     "text": "GitHub",
@@ -34,6 +34,26 @@
                 "Cocos2dx",
                 "Cpp",
                 "Box2d"
+            ]
+        },
+        {
+            "image": "images/projects/screenshot-spaceshooter.jpg",
+            "title": "Space Shooter",
+            "bodyText": "- A modified version of Unity Multiplayer Tutorial\n - This is a modified/remixed version of the 2D Space Shooter Sample created by Unity.\n - With added features like:\n -Play in a LAN Party.\n - Players can play from both Android/PC.\n - Auto Local IP detection.\n - Two types of connection modes.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Souvik61/SpaceShooter"
+                },
+                {
+                    "text": "Play",
+                    "href": "https://souvik-2000.itch.io/spaceshooter"
+                }
+            ],
+            "tags": [
+                "Unity",
+                "C#",
+                "Netcode"
             ]
         },
         {
