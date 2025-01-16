@@ -6,11 +6,11 @@
             "items": [
                 {
                     "icon": "images/skills/icon-csharp.png",
-                    "title": "Csharp"
+                    "title": "C#"
                 },
                 {
                     "icon": "images/skills/icon-cpp.png",
-                    "title": "Cplusplus"
+                    "title": "C++"
                 },
                 {
                     "icon": "images/skills/php.png",
