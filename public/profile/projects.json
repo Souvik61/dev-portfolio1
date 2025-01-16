@@ -59,7 +59,7 @@
         {
             "image": "images/projects/crazy-cops-gif.gif",
             "title": "Crazy Cops",
-            "bodyText": "- Can you outrun the these cops?",
+            "bodyText": "- Top-down car game where you have to outrun the cops.\n - I was responsible for the Car controller, Enemy AI, Tilemaps.",
             "links": [
                 {
                     "text": "GitHub",
@@ -78,7 +78,7 @@
         {
             "image": "images/projects/balance-the-ball.png",
             "title": "Balance The Ball",
-            "bodyText": "- Balance the ball on a seesaw.",
+            "bodyText": "- In this casual game you have a red ball and you have balance it on a seesaw.\n - Developed in Cocos2d and Cpp and used Android studio.",
             "links": [
                 {
                     "text": "Playstore",
