@@ -33,7 +33,8 @@
             "tags": [
                 "Cocos2dx",
                 "Cpp",
-                "Box2d"
+                "Box2d",
+                "Simulation"
             ]
         },
         {
